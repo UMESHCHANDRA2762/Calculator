@@ -82,3 +82,11 @@ button.clear:hover {
     display: flex;
     justify-content: center;
 }
+button.backspace {
+    background-color: #555;
+    color: white;
+}
+
+button.backspace:hover {
+    background-color: #777;
+}
